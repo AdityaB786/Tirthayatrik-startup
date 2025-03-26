@@ -30,7 +30,7 @@ To run the project locally:
    ```
 2. Navigate to the project folder:  
    ```sh
-   cd Tirthayatrik
+   cd Tirthayatrik-startup
    ```
 3. Install dependencies:  
    ```sh

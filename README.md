@@ -1,6 +1,6 @@
 # Tirthayatrik
 
-Tirthayatrik is a pilgrimage tour and travel website built using **Next.js** and **TypeScript**. The website provides detailed pilgrimage packages, trust-building sections, testimonials, blogs, and contact details. This project is designed to be visually appealing and SEO-optimized.
+Tirthayatrik (tirthayatrik.com) is a pilgrimage tour and travel website built using Next.js and TypeScript. This website was developed for a client who has this startup. It provides detailed pilgrimage packages, trust-building sections, testimonials, blogs, and contact details. The project is designed to be visually appealing and SEO-optimized.
 
 ## Features
 

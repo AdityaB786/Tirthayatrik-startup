@@ -26,7 +26,7 @@ To run the project locally:
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/Tirthayatrik.git
+   git clone [https://github.com/yourusername/Tirthayatrik.git](https://github.com/AdityaB786/Tirthayatrik-startup.git)
    ```
 2. Navigate to the project folder:  
    ```sh
